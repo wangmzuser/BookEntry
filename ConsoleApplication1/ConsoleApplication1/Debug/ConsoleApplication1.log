@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/4/20 9:44:32。
+     1>项目“E:\Users\wmz\Project\vs2012\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Mydef.cpp main.cpp
+         Mydef.cpp
+     1>e:\users\wmz\project\vs2012\consoleapplication1\consoleapplication1\mydef.cpp(6): error C2084: 函数“BookEntry::BookEntry(void)”已有主体
+                 e:\users\wmz\project\vs2012\consoleapplication1\consoleapplication1\mydef.h(58) : 参见“{ctor}”的前一个定义
+     1>e:\users\wmz\project\vs2012\consoleapplication1\consoleapplication1\mydef.cpp(10): error C2084: 函数“BookEntry::~BookEntry(void)”已有主体
+                 e:\users\wmz\project\vs2012\consoleapplication1\consoleapplication1\mydef.h(47) : 参见“{dtor}”的前一个定义
+         正在生成代码...
+         正在编译...
+         main.cpp
+         正在生成代码...
+     1>已完成生成项目“E:\Users\wmz\Project\vs2012\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.68
